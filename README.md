@@ -1,5 +1,3 @@
-# road_lane_detection
-
 # Road lane detection
 
 Detecting road lanes using OpenCV in C++
